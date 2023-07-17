@@ -1,6 +1,6 @@
 <div align="center">
 <h1> Hey 👋🏻, I'm Mishika </h1>
-  
+
 <h1> 👩‍💻 About Me </h1>
 I am a self-taught full-stack web developer, UI/UX Designer and Blockchain Enthusiast. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
 
@@ -49,6 +49,6 @@ I learned a lot from the open-source community, and I love how collaboration and
 [![](https://visitcount.itsvg.in/api?id=mishikaa&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## Support 🙌
-<p><a href="https://www.buymeacoffee.com/mishika"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mishika" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/mishika"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mishika" /></a></p><br><br>
   
 </div>
