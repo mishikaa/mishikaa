@@ -1,54 +1,69 @@
+<h1> Hello Fellow < Developers />! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <div align="center">
-<h1> Hey 👋🏻, I'm Mishika </h1>
+<img width="70%" height = "280px" src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" alt="cover" />
+</div>
 
-<h1> 👩‍💻 About Me </h1>
-I am a self-taught full-stack web developer, UI/UX Designer and Blockchain Enthusiast. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
+<div size='20px'> Hi! My name is <b>Mishika Jaiswal</b>. Thank You for taking the time to view my profile.
+</div>
 
-I am also a passionate coder with C, C++, and Python programming languages expertise. With a strong foundation in computer science, I've dedicated significant time and effort to honing my data structures and algorithms skills. A regular practitioner on <a href="https://www.leetcode.com/mishikaj2001">Leetcode</a>, I embrace the platform as an opportunity to further my understanding of complex problem-solving techniques. 
+<p align='center'>
+  
+[![](https://visitcount.itsvg.in/api?id=mishikaa&icon=0&color=1)](https://visitcount.itsvg.in)
 
-I am also an open-source enthusiast.
-I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
+</p>
 
-## Find me around the web 🌎
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-15616d.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mishika16) 
-[![Website](https://img.shields.io/badge/portfolio-a4133c?style=for-the-badge&logo=About.me&logoColor=white)](https://mishikajaiswal.netlify.app/) 
+<h2> About Me <img src = "https://media.giphy.com/media/2bvcIZuvnBkWxb68Bx/giphy.gif" width = 100px height='60px'></h2>
 
-# 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-c1121f?style=flat&logo=css3&logoColor=white) 
-![Javascript](https://img.shields.io/badge/javascript-ff9f1c?style=flat&logo=javascript&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-04471c?style=flat&logo=next.js&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-312244?style=flat&logo=socket.io&badgeColor=010101) 
-![Threejs](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	
-![Figma](https://img.shields.io/badge/figma-c9184a.svg?style=flat&logo=figma&logoColor=white) 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
-# 📊 GitHub Stats
+
+- 🔭 I am a self-taught full-stack web developer, UI/UX Designer and Blockchain Enthusiast.
+
+- 💻 I am  a passionate coder with C, C++, and Python programming languages expertise.
+  
+- 🌱 I am also an open-source enthusiast.
+I learned a lot from the open-source community, and looking to collaborate on Full stack web projects.
+
+<h2> Tech Stack <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=socketio&sort= > <img width ='32px' height='32px' src ='https://cdn.icon-icons.com/icons2/2389/PNG/512/socket_io_logo_icon_144874.png'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=postman&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=redux&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=threejs&sort= > <img width ='32px' height='32px' src ='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/three-js-icon.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
+<a href= https://github.com/https://github.com/mishikaa?tab=repositories&q=&type=&language=canva&sort= > <img width ='32px' height='32px' src ='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.svg'> </a>
+
+<h2> Find me around the web <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60px" height=50px> </h2>
+<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/mishika16/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://mishikajaiswal.netlify.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/https://github.com/mishikaa'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+
+<h2> My GitHub Stats <img src='https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif' width='42px' height=42px> </h2>
+
 ![](https://github-readme-stats.vercel.app/api?username=mishikaa&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mishikaa&theme=highcontrast&hide_border=false)<br/>
 
-# 💻 Languages Used
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mishikaa&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h2> Top Contributed Repo<img src='https://media.giphy.com/media/d8L5peYXGjUf0FWigR/giphy.gif' width='45px'> </h2>
 
-# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mishikaa&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=mishikaa&icon=0&color=1)](https://visitcount.itsvg.in)
+<h2> Support <img src='https://media.giphy.com/media/p9q8VwOEs8qfmDr7hK/giphy.gif' width='42px'> </h2>
 
-## Support 🙌
 <p><a href="https://www.buymeacoffee.com/mishika"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mishika" /></a></p><br><br>
-  
-</div>
