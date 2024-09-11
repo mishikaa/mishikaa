@@ -17,12 +17,12 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I am a self-taught full-stack web developer, UI/UX Designer and Blockchain Developer.
+- 🔭 I am a self-taught full-stack web developer with hands-on experience in Augmented Reality, UI/UX Designer and Blockchain Developer.
 
-- 💻 I am  a passionate coder with C, C++, and Python programming languages expertise.
+- 💻 I am a passionate coder with C, C++ expertise, and basics of Python programming language.
   
 - 🌱 I am also an open-source enthusiast.
-I learned a lot from the open-source community, and looking to collaborate on Full-stack web or Blockchain projects.
+I learned a lot from the open-source community and participated in GSSOC'24, and looking to collaborate on Full-stack web or Blockchain projects.
 
 <h2> Tech Stack <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/mishikaa?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -52,7 +52,11 @@ I learned a lot from the open-source community, and looking to collaborate on Fu
 <a href = 'https://www.linkedin.com/in/mishika16/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://mishikajaiswal.netlify.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://github.com/mishikaa'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://github.com/mishikaa'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linkedin.svg"/></a> 
 
+<h2> My Leetcode Stats <a href="https://iconscout.com/lottie-animations/leetcode-logo"></h2>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mishikaj2001?theme=dark&font=Abhaya%20Libre&ext=heatmap)
 
 <h2> My GitHub Stats <img src='https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif' width='42px' height=42px> </h2>
 
