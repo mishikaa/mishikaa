@@ -52,7 +52,6 @@ I learned a lot from the open-source community and participated in GSSOC'24, and
 <a href = 'https://www.linkedin.com/in/mishika16/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://mishikajaiswal.netlify.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://github.com/mishikaa'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<a href = 'https://github.com/mishikaa'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linkedin.svg"/></a> 
 
 <h2> My Leetcode Stats <a href="https://iconscout.com/lottie-animations/leetcode-logo"></h2>
 
