@@ -9,7 +9,7 @@ src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" alt="cover" />
 
 <div size="20px">
 Hi! I'm <b>Mishika Jaiswal</b> — a <b>Software Engineer at Cisco Systems</b> specializing in 
-<b>Full-Stack Development, AI/LLM Engineering, Cloud-Native Systems, and Blockchain</b>.
+<b>Full-Stack Development, AI/LLM Engineering, and Blockchain</b>.
 </div>
 
 <p align="center">
